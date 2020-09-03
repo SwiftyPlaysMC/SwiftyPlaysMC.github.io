@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+# Project #1:
+
+### Bot Creator
+
 
 You can use the [editor on GitHub](https://github.com/SwiftyPlaysMC/SwiftyPlaysMC.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
